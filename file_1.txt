@@ -1,0 +1,3 @@
+Shannon: We will be stopping users from the ability 
+to manually insert loan status 35 on 
+top of loan status 40 or higher.
